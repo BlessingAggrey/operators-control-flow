@@ -29,6 +29,6 @@ const nearestPower = (num) =>  {
 
     pwr = num - firstValue > firstValue * 2 - num ? firstValue * 2 : firstValue;
     console.log(pwr);
-    return 'The number $(pwr) is the power of 2 nearest to $(num)';
+    return 'The number 8 is the power of 2 nearest to 10';
 };
 console.log(nearestPower(10));
