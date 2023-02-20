@@ -1,7 +1,8 @@
 # operators-control-flow Answers
-1. a. Arithmethic operators symbols: +, -, /, *, %, **, ++, --  .
-   b. Assignment operators symbols: =, +=, -=, /=, *=, %=  .
-   c. Comparison operators symbols: <, <=, >, >=, ===, !==  .
-   d. Logical operators symbols: &&, ||, !  .
-   e. Bitwise operators symbols: &, |, <<, >>, ~, ^  .
+#### Question 1:
+* Arithmethic operators symbols: +, -, /, *, %, **, ++, --  .
+* Assignment operators symbols: =, +=, -=, /=, *=, %=  .
+* Comparison operators symbols: <, <=, >, >=, ===, !==  .
+* Logical operators symbols: &&, ||, !  .
+* Bitwise operators symbols: &, |, <<, >>, ~, ^  .
   
