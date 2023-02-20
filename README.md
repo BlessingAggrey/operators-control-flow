@@ -7,12 +7,45 @@
 * Bitwise operators symbols: &, |, <<, >>, ~, ^  .
 
 #### Question 2:
-* Examples of Arithmethic operators are: Addition operator, Subtraction operator.
-* Examples of Assignment operators are: Addition Assignment operator, Multiplication Assignment operator.
-* Examples of Comparison operators are: Greater than, Less than .
-* Examples of Logical operators are: Logical AND, Logical NOT .
-* Examples of Bitwise operators are: Bitwise AND, Bitwise Right Shift .
+* Examples of Arithmethic operators:
+
+let a = 1;
+let b = 5;
+
+console.log(a + b);
+console.log(a * b);
+
+* Examples of Assignment operators:
+
+let a = 5;
+let a += 20;
+
+* Examples of Comparison operators:
+
+let a = 2;
+let b = 4;
+
+console.log(a == 2);
+console.log(a === '4');
+
+* Examples of Logical operators:
+
+let a = True;
+let b = False;
+
+console.log(a && b);
+console.log(a ||b);
+
+* Examples of Bitwise operators: 
+
+let a = 10;
+let b = 5;
+
+console.log(a & b);
+console.log(a | b);
   
 #### Question 4:
 
 1, 8, 15
+
+The loop starts with i = 1 and increments i by 7 until the condition i < 20 becomes false.
