@@ -13,3 +13,6 @@
 * Examples of Logical operators are: Logical AND, Logical NOT .
 * Examples of Bitwise operators are: Bitwise AND, Bitwise Right Shift .
   
+#### Question 4:
+
+1, 8, 15
